@@ -7,3 +7,13 @@
 .BakeryItem {
   
 }
+
+.itemBakery{
+    background-color: orange;
+    margin: 2rem;
+}
+
+.images{
+    width: 40px;
+    height: 40px;
+}
